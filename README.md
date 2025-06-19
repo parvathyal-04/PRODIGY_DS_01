@@ -1,4 +1,4 @@
-# PRODIGY_DA_01
+# PRODIGY_TASK_01
 
 ## Task 01: Visualize the Distribution of a Categorical or Continuous Variable
 
